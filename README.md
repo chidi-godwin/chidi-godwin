@@ -1,5 +1,10 @@
 [![GitHub Banner](./assets/images/background.webp)](https://www.linkedin.com/in/chidi-godwin/)
 
+
+With over five years of backend development expertise in Python, JavaScript, and TypeScript, I turn complex logic into the seamless backbone of digital experiences. 
+
+As Albert Einstein profoundly stated, "Logic will get you from A to B. Imagination will take you everywhere."
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidi-godwin/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7133997/chidiebere-nwachukwu)
 
