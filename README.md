@@ -4,7 +4,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7133997/chidiebere-nwachukwu)
 
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdi-godwin&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chidi-godwin&count_private=true&show_icons=true&theme=prussian" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidi-godwin&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
 
 #### Languages:
